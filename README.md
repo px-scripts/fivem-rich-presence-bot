@@ -20,7 +20,7 @@ Each bot can have its own **status, activities (Playing, Streaming, Listening, W
 1. Download or clone this repository into your `resources` folder:
    ```bash
    cd resources
-   git clone https://github.com/pxscripts/fivem-rich-presence-bot.git
+   git clone https://github.com/px-scripts/fivem-rich-presence-bot.git
 ````
 
 2. Navigate into the folder and install dependencies:
